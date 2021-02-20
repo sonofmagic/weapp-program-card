@@ -18,8 +18,9 @@
   - uni-app 写的小程序
 
 ## 感谢测试人员
-
-❥:[LikeSco](https://github.com/LikeSco),[tsukasa521](https://github.com/tsukasa521)
+💖 Thanks to
+  - [LikeSco](https://github.com/LikeSco)
+  - [tsukasa521](https://github.com/tsukasa521)
 ## 为什么写？
 
 2021年春节假期过得太无聊了
