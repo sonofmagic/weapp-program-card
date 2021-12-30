@@ -1,3 +1,21 @@
+## 2.0.0 (2021-12-31)
+
+我重写了整个云函数后端。
+
+这次使用了自己的 [simple-cloudbase](https://github.com/sonofmagic/simple-cloudbase) & [simple-cloudbase-router](https://github.com/sonofmagic/simple-cloudbase-router) 来构建
+
+效果不错，除了全部都用 typescript 之外，我也把原先的多函数全部都给 `compose` 在一起成单函数了。
+
+这样就解决了一个问题，多个云函数各自有独立的冷启动，且时间过长。
+
+同时还顺便修复了许多个 bug.
+
+转眼 2021 年就要过去， 回首这一年也是暗无天日又气势磅礴的一年。
+
+希望能给 2021 画上一个完美的句号
+
+2022 年，加油吧！
+
 ## 1.7.1 (2021-09-27)
 
 3 个月过去了，架构改动很多
